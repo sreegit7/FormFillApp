@@ -31,7 +31,9 @@
     <label for="father"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
     <br>
-
+    <label for="brother"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
+    <br>
 
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
