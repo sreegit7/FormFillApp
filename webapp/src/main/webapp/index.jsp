@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
+    <h1>Welcome!! sreehari Registration Form!!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
@@ -27,20 +27,6 @@
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
     <br>
-
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <br>
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
-    <br>
-     <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
-    <br>
-    <label for="spouse"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Enter Spouse Name" name="spouse" id="spouse" required>
-    <br>
-
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
