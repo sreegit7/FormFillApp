@@ -26,7 +26,14 @@
 
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-    <br>`
+    <br>
+    <label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
+    <br>
+    <label for="spouse"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Enter Spouse Name" name="spouse" id="spouse" required>
+    <br>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
